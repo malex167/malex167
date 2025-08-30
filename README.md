@@ -12,4 +12,4 @@ My prior experience and education utilizes tools including:
 
 **Connect with Me**
 
-www.linkedin.com/in/michael-force-86686519a
+[LinkedIn Profile](www.linkedin.com/in/michael-force-86686519a)
