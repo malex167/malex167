@@ -1,16 +1,15 @@
-## Hi there 👋
+<img width="1107" height="516" alt="image" src="https://github.com/user-attachments/assets/1226ec1b-eaa7-4c9f-a45a-dbfa4f787e1b" />
 
-<!--
-**malex167/malex167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Michael and welcome to my portfolio.
 
-Here are some ideas to get you started:
+I am interested in opportunities to apply my technical skills and extensive statistical knowledge. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My prior experience and education utilizes tools including:
+- Microsoft Excel
+- R
+- SQL
+- Power BI
+
+**Connect with Me**
+
+www.linkedin.com/in/michael-force-86686519a
