@@ -4,15 +4,17 @@
 
 Hello, my name is Michael and welcome to my portfolio.
 
-I am interested in opportunities to apply my technical skills and extensive statistical knowledge. 
+I am interested in opportunities to apply my technical skills surrounding data analysis, data science/machine learning, and extensive statistical knowledge. 
 
 # Tools
 
 My prior experience and education utilizes tools including:
-- Microsoft Excel
-- R
-- SQL
+- SQL (Microsoft SQL Server, Oracle SQL Developer, and MySQL)
+- R (R Studio)
+- Python
+- Tableau
 - Power BI
+- Microsoft Excel
 
 # Connect with Me
 
