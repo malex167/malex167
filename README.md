@@ -11,7 +11,7 @@ I am interested in opportunities to apply my technical skills surrounding data a
 My prior experience and education utilizes tools including:
 - SQL (Microsoft SQL Server, Oracle SQL Developer, and MySQL)
 - R (R Studio)
-- Python
+- Python (Pandas, Numpy, matplotlib, scikit learn)
 - Tableau
 - Power BI
 - Microsoft Excel
